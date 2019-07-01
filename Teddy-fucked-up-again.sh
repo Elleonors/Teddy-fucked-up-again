@@ -1,0 +1,33 @@
+#!/bin/bash
+
+echo " "
+echo "                                     ▄              ▄"    
+echo "                                    ▌▒█           ▄▀▒▌"
+echo "                                    ▌▒▒█        ▄▀▒▒▒▐"
+echo "                                   ▐▄▀▒▒▀▀▀▀▄▄▄▀▒▒▒▒▒▐"
+echo "                                 ▄▄▀▒░▒▒▒▒▒▒▒▒▒█▒▒▄█▒▐"
+echo "                               ▄▀▒▒▒░░░▒▒▒░░░▒▒▒▀██▀▒▌"
+echo "                              ▐▒▒▒▄▄▒▒▒▒░░░▒▒▒▒▒▒▒▀▄▒▒▌"
+echo "                              ▌░░▌█▀▒▒▒▒▒▄▀█▄▒▒▒▒▒▒▒█▒▐"
+echo "                             ▐░░░▒▒▒▒▒▒▒▒▌██▀▒▒░░░▒▒▒▀▄▌"
+echo "                             ▌░▒▄██▄▒▒▒▒▒▒▒▒▒░░░░░░▒▒▒▒▌"
+echo "                            ▌▒▀▐▄█▄█▌▄░▀▒▒░░░░░░░░░░▒▒▒▐"
+echo "                            ▐▒▒▐▀▐▀▒░▄▄▒▄▒▒▒▒▒▒░▒░▒░▒▒▒▒▌"
+echo "                            ▐▒▒▒▀▀▄▄▒▒▒▄▒▒▒▒▒▒▒▒░▒░▒░▒▒▐"
+echo "                             ▌▒▒▒▒▒▒▀▀▀▒▒▒▒▒▒░▒░▒░▒░▒▒▒▌"
+echo "                             ▐▒▒▒▒▒▒▒▒▒▒▒▒▒▒░▒░▒░▒▒▄▒▒▐"
+echo "                    *----------------------------------------*"
+echo "                    |                                        |"
+echo "                    | hello there ! I'll install you Git ,   |"
+echo "                    | configure it, and install these things:|"
+echo "                    | node, vue, lamp, nvm & phpmyadmin.     |"
+echo "                    |                                        |"
+echo "                    | And, Bonus, Chromium, mozilla,         |"
+echo "                    |    VSC, Thunderbird, snap & his store !|"
+echo "                    |                                        |"
+echo "                    |/!\ This installer is in three parts /!\|"
+echo "                    |                                        |"
+echo "                    *----------------------------------------*"
+echo " " && sleep 5
+
+bash v1.sh
